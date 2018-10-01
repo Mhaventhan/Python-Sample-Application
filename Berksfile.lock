@@ -1,0 +1,11 @@
+DEPENDENCIES
+  Python
+    git: git@github.com:Mhaventhan/PythonChef.git
+    revision: 7fe0396e0c7caf76675d761e40e0eedbe6aec8ff
+  nginx
+    git: git@github.com:Mhaventhan/NginxChefCookBook.git
+    revision: 271f17bd3010054363ad86a3f6c69dcd37169378
+
+GRAPH
+  Python (0.1.0)
+  nginx (0.1.0)
